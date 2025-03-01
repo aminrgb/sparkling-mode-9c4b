@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "sparkling-mode-9c4b",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "f2f3c501-a611-4ec6-868c-07871a34a3cc",
+      "database_name": "sparkling-mode-9c4b-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
